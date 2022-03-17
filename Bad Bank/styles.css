@@ -1,0 +1,62 @@
+
+body {
+    background-image: url("mistymountains.jpg");
+}
+.card {
+    display: flex;
+    margin-left: 45%;
+    margin-top: 5em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px 10px 50px 50px;
+}
+
+.card-header:first-child {
+    background-color: salmon;
+    border-radius: 10px;
+  }
+  
+.card-header {
+    background: rgba(15, 15, 150, 0.315);
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+
+.card-title {
+    text-align: center;
+    
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+    color: rgb(110, 110, 110);
+    
+}
+
+/* .img-fluid {
+    
+} */
+#nav-link:hover {
+    background-color: rgb(172, 172, 172);
+}
+
+.btn {
+    background-color: rgb(155, 154, 154);
+    border-color:rgb(155, 154, 154);
+    
+}
+
+nav {
+    background-color:rgba(15, 15, 150, 0.315);
+    
+}
+
+.img-fluid {
+    border-radius: 5% 5% 20% 20%;
+
+}
